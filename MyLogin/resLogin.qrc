@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/close-bold.png</file>
+        <file>pic/minus-bold.png</file>
+        <file>pic/drop-down.png</file>
+        <file>pic/drop-down-hover.png</file>
+        <file>pic/drop-down-on.png</file>
+        <file>pic/drop-down-on-hover.png</file>
+        <file>pic/IP.png</file>
+        <file>pic/name.png</file>
+        <file>pic/email.png</file>
+        <file>pic/phone.png</file>
+        <file>pic/bj.png</file>
+        <file>pic/tx.png</file>
+        <file>pic/sex.png</file>
+        <file>pic/phone_big.png</file>
+        <file>pic/id.png</file>
+        <file>pic/area.png</file>
+        <file>pic/birth.png</file>
+        <file>pic/class.png</file>
+        <file>pic/num2.png</file>
+        <file>pic/back.png</file>
+        <file>pic/save.png</file>
+        <file>pic/nub.png</file>
+        <file>pic/next.png</file>
+        <file>pic/return.png</file>
+        <file>pic/finish.png</file>
+        <file>pic/passwd.png</file>
+        <file>pic/mima.png</file>
+        <file>pic/mima2.png</file>
+        <file>pic/logo.png</file>
+        <file>pic/user1.png</file>
+        <file>pic/bj11.jpg</file>
+    </qresource>
+</RCC>

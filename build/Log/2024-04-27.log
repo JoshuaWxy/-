@@ -1,0 +1,556 @@
+12:17:49 warning   0 Unknown property round-corners
+not called in QAbstractSocket::UnconnectedState
+21:21:44 warning   0 QNativeSocketEngine::bind() was not called in QAbstractSocket::UnconnectedState
+21:21:44 warning   0 QNativeSocketEngine::bind() was not called in QAbstractSocket::UnconnectedState
+21:21:44 warning   0 QNativeSocketEngine::bind() was not called in QAbstractSocket::UnconnectedState
+21:21:44 warning   0 QNativeSocketEngine::bind() was not called in QAbstractSocket::UnconnectedState
+01 warning   0 qUncompress: Input data is corrupted
+20:47:01 warning   0 qUncompress: Input data is corrupted
+20:47:01 warning   0 qUncompress: Input data is corrupted
+20:47:01 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:01 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:01 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:02 warning   0 qUncompress: Input data is corrupted
+20:47:02 warning   0 qUncompress: Input data is corrupted
+20:47:02 warning   0 qUncompress: Input data is corrupted
+20:47:02 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:02 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:02 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:03 warning   0 qUncompress: Input data is corrupted
+20:47:03 warning   0 qUncompress: Input data is corrupted
+20:47:03 warning   0 qUncompress: Input data is corrupted
+20:47:03 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:03 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:03 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 qUncompress: Input data is corrupted
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:55 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 qUncompress: Input data is corrupted
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:56 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 qUncompress: Input data is corrupted
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap
+20:47:57 warning   0 QPixmap::scaleWidth: Pixmap is a null pixmap

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Blod.png</file>
+        <file>res/underline.png</file>
+        <file>res/xieti.png</file>
+        <file>res/pen.png</file>
+        <file>res/current.png</file>
+        <file>res/fs.png</file>
+        <file>res/left.png</file>
+        <file>res/right.png</file>
+        <file>res/h1.png</file>
+        <file>res/h2.png</file>
+        <file>res/h3.png</file>
+        <file>res/color.png</file>
+        <file>res/color_choice.png</file>
+        <file>res/copy.png</file>
+        <file>res/cut.png</file>
+        <file>res/past.png</file>
+        <file>res/note.png</file>
+        <file>res/notepad.png</file>
+        <file>res/paint.png</file>
+        <file>res/resp.jpg</file>
+        <file>res/big.png</file>
+        <file>res/redo.png</file>
+        <file>res/small.png</file>
+    </qresource>
+</RCC>

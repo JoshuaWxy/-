@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/backgroud">
+        <file>images/CET4.jpg</file>
+        <file>images/CET6.png</file>
+        <file>images/Familiar.png</file>
+    </qresource>
+</RCC>

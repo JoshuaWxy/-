@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Introduction</class>
+ <widget class="QDialog" name="Introduction">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>475</width>
+    <height>362</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QTextEdit" name="textEdit">
+     <property name="html">
+      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Microsoft YaHei UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.3.1启动课堂通：完成安装后&lt;span style=&quot; color:#222226; background-color:#ffffff;&quot;&gt;您可以在桌面或应用程序&lt;/span&gt;列表&lt;span style=&quot; color:#222226; background-color:#ffffff;&quot;&gt;中找到课堂通的图标，双击启动该应用程序，如若需要启动课堂通的会议功能请启动课堂通服务器（在&lt;/span&gt;&lt;span style=&quot; font-family:'Arial','sans-serif'; color:#222226; background-color:#ffffff;&quot;&gt;5.3.2&lt;/span&gt;&lt;span style=&quot; color:#222226; background-color:#ffffff;&quot;&gt;会详细说明）。&lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial','sans-serif'; color:#222226; background-color:#ffffff;&quot;&gt;5.3.2&lt;/span&gt;&lt;span style=&quot; color:#222226; background-color:#ffffff;&quot;&gt;启动课堂通服务器：&lt;/span&gt;完成安装后&lt;span style=&quot; color:#222226; background-color:#ffffff;&quot;&gt;您可以在桌面或应用程序&lt;/span&gt;列表&lt;span style=&quot; color:#222226; background-color:#ffffff;&quot;&gt;中找到课堂通的图标，双击启动该应用程序。&lt;/span&gt; &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;5.3.3 注册账号：启动课堂通后，点击去注册，输入账号、密码、确认密码点击下一步输入邮箱，再点击发送验证码,最后输入获得的邮箱验证码，阅读课堂通服务协议若同意就在我已认真阅读并接受课堂通服务协议，即可完成注册。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.4登录账号：登录您所注册过后的账号。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.5 使用截屏、播放视频、播放音乐、录屏功能：进入主页面后，可以在左下脚点击这些功能。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.6 使用学习英语单词功能：点击右上角的词汇功能，点击自己需要学习的模块再点击开始学习单词，进入学习界面后可以使用搜索单词，学习单词功能。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.6.1 使用学习单词功能：点击学习单词功能后会弹出单词卡界面，该界面会显示一个单词，在该界面中可以选择上一个、忘记了、查看翻译/单词、下一个、已记住、返回。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.7使用文本编辑功能：点击上方的文本编辑功能后，具有打开文本、保存文本、保存绘图、选择主题等功能；在该界面可以新建绘图和新建文本，若点击创建文本可以在文本编辑界面使用复制、粘贴、剪切、斜体、增加下划线、加粗、屏幕适配、调整字体颜色、字体居中等功能。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.8 使用发信息功能：该功能为右上方第二个按键，选择连接的ip地址，和ip就可以点击摄像头图案，可以录屏、发送图片，拍照等功能。 &lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;       5.3.9 使用屏幕共享功能：打开课堂通服务器点击启动按钮，然后点击加号键，就会弹出会议窗口，可以隐藏右侧边栏，点击屏幕共享就可以开始屏幕共享了。 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
